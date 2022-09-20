@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=Scooterminsk)
 
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> My name is Eugene Kirilov and I'm an iOS-Developer
-## I'm from Belarus, living in Minsk and currently searching for a job. I will be a valuable asset to your company😉
+## 😉 I'm from Belarus, living in Minsk and currently searching for a job. I will be a valuable asset to your company
 - 👨‍💻 I'm really keen on writing code
 - 💪 I like to spend my leasure time cycling and doing other sports
 - 🤓 I'm constantly learning new things
@@ -11,7 +11,7 @@
 
 ## 📥 Connect with me:
 
-[<img align="left" alt="EugeneKirilov | LinkedIn" width="35px" src="https://img.icons8.com/color/344/linkedin-circled--v1.png" />][linkedin]
+[<img align="left" alt="EugeneKirilov | LinkedIn" width="35px" src="https://img.icons8.com/color/344/linkedin.png" />][linkedin]
 [<img align="left" alt="EugeneKirilov | Instagram" width="35px" src="https://img.icons8.com/fluency/344/instagram-new.png" />][instagram]
 
 <br />
@@ -27,22 +27,22 @@
 <br />
 <br />
 
-## <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
+## <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' />  My Github Stats:
 
 <a href="https://github.com/Scooterminsk/Scooterminsk">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Scooterminsk&show_icons=true&theme=great-gatsby&count_private=true" alt="Eugene's GitHub Stats />
 </a>
 <a href="https://github.com/Scooterminsk/Scooterminsk">
-  <img align="center" src="https://streak-stats.demolab.com/?user=Scooterminsk&theme=dark" />
+  <img align="center" src="https://streak-stats.demolab.com/?user=Scooterminsk&theme=darkbg_color=000000" />
 </a>
 
 <a href="https://github.com/Scooterminsk/Scooterminsk">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Scooterminsk&layout=compact&text_color=daf7dc&bg_color=151515&title_color=f1aa47" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Scooterminsk&layout=compact&text_color=daf7dc&bg_color=000000&title_color=f1aa47" />
 </a>
 
 <br />
 
-## <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = '26' /> Check my repositories
+## <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = '26' />  Check my repositories
 
 [linkedin]: https://www.linkedin.com/in/eugene-kirilov-0488a5a5/
 [instagram]: https://www.instagram.com/scooterminsk/
