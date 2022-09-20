@@ -2,7 +2,8 @@
 
 ![](https://komarev.com/ghpvc/?username=Scooterminsk)
 
-## My name is Eugene Kirilov and I'm an iOS-Developer 📲. I'm from Belarus, living in Minsk and currently searching for a job. I will be a valuable asset to your company😉
+## My name is Eugene Kirilov and I'm an iOS-Developer 📲. 
+## I'm from Belarus, living in Minsk and currently searching for a job. I will be a valuable asset to your company😉
 - 👨‍💻 I'm really keen on writing code
 - 💪 I like to spend my leasure time riding a bike and doing other sports
 - 🤓 I'm constantly learning new things
@@ -26,8 +27,14 @@
 <br />
 <br />
 
+## 📊 Statistics
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Scooterminsk&show_icons=true&theme=great-gatsby&count_private=true)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Scooterminsk&theme=dark)](https://git.io/streak-stats)
+
+<br />
+
+## 🔥 Check my repositories
 
 [linkedin]: https://www.linkedin.com/in/eugene-kirilov-0488a5a5/
 [instagram]: https://www.instagram.com/scooterminsk/
