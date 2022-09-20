@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=Scooterminsk)
 
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> My name is Eugene Kirilov and I'm an iOS-Developer
-## 😉 I'm from Belarus, living in Minsk and currently searching for a job. I will be a valuable asset to your company
+##   😉  I'm from Belarus, living in Minsk and currently searching for a job. I will be a valuable asset to your company
 - 👨‍💻 I'm really keen on writing code
 - 💪 I like to spend my leasure time cycling and doing other sports
 - 🤓 I'm constantly learning new things
@@ -33,7 +33,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Scooterminsk&show_icons=true&theme=great-gatsby&count_private=true" alt="Eugene's GitHub Stats />
 </a>
 <a href="https://github.com/Scooterminsk/Scooterminsk">
-  <img align="center" src="https://streak-stats.demolab.com/?user=Scooterminsk&theme=darkbg_color=000000" />
+  <img align="center" src="https://streak-stats.demolab.com/?user=Scooterminsk&theme=dark&bg_color=000000" />
 </a>
 
 <a href="https://github.com/Scooterminsk/Scooterminsk">
