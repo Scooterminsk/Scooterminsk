@@ -10,23 +10,23 @@
 
 ## 📥 Connect with me:
 
-[<img align="left" alt="EugeneKirilov | LinkedIn" width="22px" src="https://img.icons8.com/color/344/linkedin-circled--v1.png" />][linkedin]
-[<img align="left" alt="EugeneKirilov | Instagram" width="22px" src="https://img.icons8.com/fluency/344/instagram-new.png" />][instagram]
+[<img align="left" alt="EugeneKirilov | LinkedIn" width="30px" src="https://img.icons8.com/color/344/linkedin-circled--v1.png" />][linkedin]
+[<img align="left" alt="EugeneKirilov | Instagram" width="30px" src="https://img.icons8.com/fluency/344/instagram-new.png" />][instagram]
 
 <br />
 
 ## 🔧 Technologies & Tools
 
-<img align="left" alt="Swift" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" />
-<img align="left" alt="Xcode" width="26px" src="https://img.icons8.com/color/344/xcode.png" />
-<img align="left" alt="Git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
-<img align="left" alt="Realm" width="26px" src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/8665e8c267a0215f3159df28b33c365198101df5/public/logos/realm.svg" />
-<img align="left" alt="Figma" width="26px" src="https://img.icons8.com/color/344/figma--v1.png" />
+<img align="left" alt="Swift" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" />
+<img align="left" alt="Xcode" width="40px" src="https://img.icons8.com/color/344/xcode.png" />
+<img align="left" alt="Git" width="40px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
+<img align="left" alt="Realm" width="40px" src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/8665e8c267a0215f3159df28b33c365198101df5/public/logos/realm.svg" />
+<img align="left" alt="Figma" width="40px" src="https://img.icons8.com/color/344/figma--v1.png" />
 
 <br />
 <br />
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Scooterminsk&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Scooterminsk&show_icons=true&theme=great-gatsby&count_private=true)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Scooterminsk&theme=dark)](https://git.io/streak-stats)
 
 [linkedin]: https://www.linkedin.com/in/eugene-kirilov-0488a5a5/
