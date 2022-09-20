@@ -27,14 +27,22 @@
 <br />
 <br />
 
-## 📊 Statistics
+## <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Scooterminsk&show_icons=true&theme=great-gatsby&count_private=true)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Scooterminsk&theme=dark)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Scooterminsk&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/Scooterminsk/Scooterminsk">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Scooterminsk&show_icons=true&theme=great-gatsby&count_private=true" alt="Eugene's GitHub Stats />
+</a>
+<a href="https://github.com/Scooterminsk/Scooterminsk">
+  <img align="center" src="https://streak-stats.demolab.com/?user=Scooterminsk&theme=dark" />
+</a>
+
+<a href="https://github.com/Scooterminsk/Scooterminsk">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Scooterminsk&layout=compact&text_color=daf7dc&bg_color=151515&title_color=f1aa47" />
+</a>
 
 <br />
-## 🔥 Check my repositories
+
+## <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = '26' /> Check my repositories
 
 [linkedin]: https://www.linkedin.com/in/eugene-kirilov-0488a5a5/
 [instagram]: https://www.instagram.com/scooterminsk/
