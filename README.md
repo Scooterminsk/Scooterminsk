@@ -1,4 +1,4 @@
-[![Header](file:///Users/zenyakirilov/Desktop/httpsgithub.comScooterminsk-2.png "Header")](https://www.linkedin.com/in/scooterminsk/)
+[![Header](https://raw.githubusercontent.com/Scooterminsk/Scooterminsk/main/Header.png "Header")](https://www.linkedin.com/in/scooterminsk/)
 
 # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> 
 
