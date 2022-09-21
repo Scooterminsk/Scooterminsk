@@ -1,3 +1,5 @@
+[![Header](file:///Users/zenyakirilov/Desktop/httpsgithub.comScooterminsk-2.png "Header")](https://www.linkedin.com/in/scooterminsk/)
+
 # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> 
 
 ![](https://komarev.com/ghpvc/?username=Scooterminsk)
@@ -7,7 +9,7 @@
 - 👨‍💻 I'm really keen on writing code
 - 💪 I like to spend my leasure time cycling and doing other sports
 - 🤓 I'm constantly learning new things
-- 📚 I like reading different books in Russian, Belarussian, Polish or English
+- 📚 I like reading different books in Russian, Belarussian, Polish and English
 - 😉 I will be a valuable asset to your company
 
 ## 📥 Connect with me:
@@ -18,12 +20,21 @@
 <br />
 
 ## 🔧 Technologies & Tools
-
-<img align="left" alt="Swift" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" />
-<img align="left" alt="Xcode" width="40px" src="https://img.icons8.com/color/344/xcode.png" />
-<img align="left" alt="Git" width="40px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
-<img align="left" alt="Realm" width="40px" src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/8665e8c267a0215f3159df28b33c365198101df5/public/logos/realm.svg" />
-<img align="left" alt="Figma" width="40px" src="https://img.icons8.com/color/344/figma--v1.png" />
+<a href="https://docs.swift.org/swift-book/">
+    <img align="left" alt="Swift" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" />
+</a>
+<a href="https://developer.apple.com/xcode/">
+    <img align="left" alt="Xcode" width="40px" src="https://upload.wikimedia.org/wikipedia/ru/0/0c/Xcode_icon.png" />
+</a>
+<a href="https://git-scm.com">
+    <img align="left" alt="Git" width="40px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
+</a>
+<a href="https://realm.io">
+    <img align="left" alt="Realm" width="40px" src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/8665e8c267a0215f3159df28b33c365198101df5/public/logos/realm.svg" />
+</a>
+<a href="https://www.figma.com/">
+    <img align="left" alt="Figma" width="40px" src="https://img.icons8.com/color/344/figma--v1.png" />
+</a>
 
 <br />
 <br />
